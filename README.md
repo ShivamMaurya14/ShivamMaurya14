@@ -1,68 +1,57 @@
-
-<div align="center">
-  
-# Shivam Maurya | Robotics & AI Engineer
-  
-![Header](https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=150&section=header&text=Building%20Autonomous%20Systems&fontSize=40&animation=fadeIn)
-
-
-</div>
+# Executive Overview: [Your Name]
+**Automation & Robotics Engineer | Specialized in Autonomous Systems & Embedded Architecture**
 
 ---
 
-### 🚀 About Me
-I am a second-year Engineering student specializing in **Automation and Robotics**. My work sits at the intersection of hardware systems and intelligent software. I build autonomous systems that integrate embedded electronics, computer vision, and machine learning to solve real-world problems.
-
-- 🛠️ **Current Focus:** Integrating ROS2 with ESP32/STM32 for advanced SLAM.
-- 🧠 **AI/CV:** Implementing YOLO-based detection for autonomous navigation.
-- 💻 **Logic:** Active Competitive Programmer (C++ focus).
-
----
-
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-**Core Languages & Software**
-<br />
-<img src="https://skillicons.dev/icons?i=cpp,py,c,ros,opencv,tensorflow,sklearn,git,linux" />
-
-<br />
-
-**Hardware & Simulation**
-<br />
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,stm32,figma,postman,mongodb" />
-<br />
-*(Using ESP32, STM32, Gazebo, and LiDAR/IMU integration)*
-
-</div>
+### 📋 Professional Profile
+* **Academic:** 2nd Year Engineering Student | Specialization: Automation & Robotics
+* **Core Competency:** Full-stack Robotics (Middleware, Perception, and Embedded Control)
+* **Algorithmic Focus:** Competitive Programming (C++ Performance Optimization)
+* **Objective:** Developing scalable autonomous solutions through ROS 2 and Computer Vision.
 
 ---
 
-### 🏗️ Robotics & AI Experience
-- **Autonomous Navigation:** Developed maze-solving robots using **ESP32** and path-planning algorithms.
-- **Computer Vision:** Built vision-based alignment systems using **YOLO** and **OpenCV**.
-- **Systems & Control:** Integrated **SLAM** and **Behavior Trees** for real-time decision-making in robotic tasks.
-- **IoT & Automation:** Designed **Smart Home** systems using STM32 + Bluetooth and automated Telegram bots.
+### 🏗️ Technology Matrix
+
+| Domain | Technical Stack |
+| :--- | :--- |
+| **Robotics Middleware** | ROS 2 (Jazzy/Humble), Action Servers, Custom Interfaces |
+| **Artificial Intelligence** | YOLO (Object Detection), SLAM, Data Science Pipelines |
+| **Languages** | C++17/20 (Expert), Python 3.x, Rust (Research & Development) |
+| **Hardware Architecture** | NVIDIA Jetson Orin Nano, STM32, Raspberry Pi 5, ESP32 |
+| **Simulation & Tools** | Gazebo Harmonic, Conda Environments, Linux (Ubuntu/Fedora) |
 
 ---
 
-### 📊 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[shivammaurya14]&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[shivammaurya14]&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Languages" />
-</div>
+### 🛰️ Strategic Projects
+
+#### 🧠 Brain Tumor Detection System
+* **Role:** Lead Developer (ML & Deployment)
+* **Tech:** Python, Computer Vision, Model Deployment
+* **Impact:** Developed a detection model for medical imaging analysis.
+
+#### 🤖 Autonomous Navigation Stack
+* **Role:** Systems Integrator
+* **Tech:** ROS 2, C++, SLAM
+* **Focus:** Implementing robust SLAM algorithms for real-time spatial awareness.
 
 ---
 
-### 📬 Connect With Me
-<div align="left">
-<a href="mailto:[shivammaurya14032005@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/[shivammaurya14]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+### 📊 System Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="300" />
+</p>
 
 ---
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[shivammaurya14]&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</div>
 
+### 🌐 Digital Presence
+<p align="left">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin" /></a>
+  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Business_Inquiry-Email-D14836?style=flat&logo=gmail" /></a>
+  <a href="https://github.com/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat&logo=github" /></a>
+</p>
+
+---
+<p align="center"><i>"Architecting the intersection of hardware and intelligence."</i></p>
