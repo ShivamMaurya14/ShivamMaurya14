@@ -1,11 +1,10 @@
 
 <div align="center">
   
-# 🤖 Shivam Maurya | Robotics & AI Engineer
+# Shivam Maurya | Robotics & AI Engineer
   
 ![Header](https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=150&section=header&text=Building%20Autonomous%20Systems&fontSize=40&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&width=435&lines=Automation+%26+Robotics+Student;Embedded+Systems+Enthusiast;AI+%26+Computer+Vision+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 
 </div>
 
