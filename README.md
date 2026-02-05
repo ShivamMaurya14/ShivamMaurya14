@@ -1,4 +1,4 @@
-# Shivam Maurya
+
 <div align="center">
   
 # 🤖 Shivam Maurya | Robotics & AI Engineer
