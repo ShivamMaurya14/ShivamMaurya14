@@ -49,21 +49,20 @@ I am a second-year Engineering student specializing in **Automation and Robotics
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[shivammaurya14]&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[shivammaurya14]&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Languages" />
 </div>
 
 ---
 
 ### 📬 Connect With Me
 <div align="left">
-<a href="mailto:[your-email@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/[your-username]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/[your-username]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:[shivammaurya14032005@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/[shivammaurya14]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[shivammaurya14]&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </div>
 
