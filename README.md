@@ -1,4 +1,4 @@
-###Shivam Maurya
+##Shivam Maurya
 <p align="left">
   <img src="https://img.shields.io/badge/Specialization-Automation%20%26%20Robotics-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Embedded%20Systems%20%26%20CV-green?style=for-the-badge" />
