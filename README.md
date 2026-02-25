@@ -99,21 +99,6 @@ I am a second-year Automation and Robotics engineering student with a strong cap
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMaurya14&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamMaurya14&theme=algolia&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya14&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-
----
-
 ### 🎯 Current Focus Areas
 
 - 🏗️ Advanced **ROS 2** system architecture
