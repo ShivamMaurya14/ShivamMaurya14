@@ -1,62 +1,118 @@
-##Shivam Maurya
-<p align="left">
-  <img src="https://img.shields.io/badge/Specialization-Automation%20%26%20Robotics-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems%20%26%20CV-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-Competitive%20Programming-orange?style=for-the-badge" />
-</p>
+# Shivam Maurya
 
-I'm a **Second Year Engineering Student** dedicated to building intelligent, autonomous systems. I spend my time at the intersection of hardware constraints and algorithmic efficiency, specializing in **ROS 2**, **Computer Vision**, and **Autonomous Navigation**.
+Automation & Robotics Engineering Student  
+Pune, India  
+
+Robotics | Machine Learning | Industrial IoT | Embedded Systems  
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+## Professional Summary
 
-**Core Languages & Logic**
-<p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" />
-</p>
+Highly driven second-year Automation and Robotics engineering student with strong capability in bridging software intelligence with physical hardware systems.
 
-**Robotics & AI**
-<p align="left">
-  <img src="https://img.shields.io/badge/ros2-%2322314E.svg?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-%23FF7500.svg?style=flat-square&logo=gazebo&logoColor=white" />
-</p>
+Focused on building production-oriented systems across robotics, machine learning, and industrial automation. Experienced in deploying ML models, designing robotic architectures, and integrating embedded hardware with real-time communication protocols.
 
-**Embedded & Hardware**
-<p align="left">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-</p>
+Actively preparing for roles in:
+- Robotics Engineering
+- Machine Learning Engineering
+- Data Science (Applied ML)
+- Industrial Automation & Edge AI
 
 ---
 
-### 🚀 Key Focus Areas
+## Core Technical Skills
 
-- 🤖 **Robotics:** Developing autonomous navigation stacks using SLAM and ROS 2 (Jazzy/Humble).
-- 👁️ **Computer Vision:** Real-time object detection (YOLO) and medical imaging applications.
-- 🧩 **Algorithms:** Actively solving complex problems in C++ with a focus on DSA.
-- 🔧 **Systems:** Designing custom ROS 2 nodes, action servers, and embedded middleware.
+### Programming
+- C++
+- Python
+- Rust
+- Data Structures & Algorithms
+
+### Robotics & Computer Vision
+- ROS 2 (C++ & Python)
+  - Custom interfaces
+  - Publishers / Subscribers
+  - Actions
+- YOLO object detection
+- Sensor integration & real-time pipelines
+
+### Machine Learning
+- Predictive modeling
+- Reinforcement Learning
+- Medical image analysis
+- GPU-based model training
+- Model deployment using FastAPI
+
+### Embedded & Edge Systems
+- NVIDIA Jetson Orin Nano
+- Intel RealSense SR300
+- RPLIDAR S2E
+- ESP-12F
+- SIM800L
+- Power optimization & deep sleep systems
+
+### Industrial Automation
+- Industrial Control Systems (ICS)
+- PLC fundamentals
+- IEC 61131-3
+  - Ladder Logic
+  - Structured Text
+- G-code basics
+- DC & Induction motor fundamentals
+
+### Communication Protocols
+- UART
+- I2C
+- SPI
+- CAN Bus
+
+### Backend & Infrastructure
+- FastAPI deployment
+- GPU server training environments
+- macOS / Windows development workflows
+- Cluster-based workload execution
 
 ---
 
-### 📈 Activity & Insights
+## Key Projects
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivammaurya14&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammaurya14&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### Predictive Maintenance ML System
+Designed a machine learning pipeline to predict equipment maintenance requirements. Architected for API-based deployment using FastAPI.
+
+### Internet-Controlled Telepresence Vehicle
+Built a remotely controlled vehicle with real-time video streaming and internet-based control architecture.
+
+### IoT Train Tracker
+Developed a cell-tower-based tracking system using ESP-12F and SIM800L modules with power-efficient deep sleep configuration.
+
+### Medical AI Hackathon Project
+Developed a multi-disease prediction system focused on brain tumor medical image analysis. Managed dataset preprocessing, GPU-based training, and evaluation pipeline.
+
+### Reinforcement Learning Agent
+Created and open-sourced an "Unbeatable Tic-Tac-Toe" RL agent demonstrating policy optimization and state evaluation principles.
+
+### Institutional Initiative
+Drafted and submitted proposal advocating for ROS 2 robotic kits to strengthen industrial robotics exposure at institutional level.
 
 ---
 
-### 🤝 Connect with Me
+## Current Focus Areas
 
-<p align="left">
-<a href="https://linkedin.com/in/shivammaurya14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- Advanced ROS 2 system architecture
+- Edge AI optimization
+- Reinforcement learning for robotics
+- Industrial communication systems
+- Scalable ML deployment pipelines
+
+---
+
+## Contact
+
+GitHub: https://github.com/ShivamMaurya14 
+LinkedIn: https://linkedin.com/in/ShivamMaurya14
+Email: shivammaurya14@gmail.com
+
+---
+
+Building intelligent systems that operate reliably in real-world environments.
