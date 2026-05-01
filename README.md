@@ -203,15 +203,6 @@ AI × Robotics Intersection
 | 🌱 **Agriculture (7)** | Smart irrigation · Greenhouse controller · Auto plant watering · Internet weather forecast · Light-trap pest detector · Solar tracker · pH soil quality monitor |
 
 </details>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMaurya14&bg_color=0d1117&color=00ffc8&line=a855f7&point=00ffc8&area=true&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 <div align="center">
