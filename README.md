@@ -156,21 +156,6 @@ AI × Robotics Intersection
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivamMaurya14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ShivamMaurya14&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffc8&fire=a855f7&currStreakLabel=00ffc8"/>
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMaurya14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 | 🏅 | Achievement | Details |
