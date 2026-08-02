@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Shivam%20Maurya&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Robotics+Software+Developer+%F0%9F%A4%96;AI%2FML+Engineer+%7C+Agentic+AI+%E2%9A%A1;ROS+2+%7C+Nav2+%7C+MoveIt+2+%F0%9F%94%8C;B.E.+Automation+%26+Robotics+%40+AIT+Pune+%F0%9F%8E%93)](https://github.com/ShivamMaurya14)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Robotics+Software+Engineer+%F0%9F%A4%96;AI%2FML+Engineer+%7C+Agentic+AI+%E2%9A%A1;ROS+2+%7C+Nav2+%7C+MoveIt+2+%F0%9F%94%8C;B.E.+Automation+%26+Robotics+%40+AIT+Pune+%F0%9F%8E%93)](https://github.com/ShivamMaurya14)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivammaurya14)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivammaurya14032005@gmail.com)
