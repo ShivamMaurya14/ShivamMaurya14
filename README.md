@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Shivam%20Maurya&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=00FFC8&vCenter=true&width=600&lines=Robotics+Software+Engineer+%F0%9F%A4%96;AI+%2F+ML+Engineer+%F0%9F%A7%A0;Perception+%26+Autonomous+Systems+%F0%9F%9A%97)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=00FFC8&center=true&vCenter=true&width=600&lines=Robotics+Software+Engineer+%F0%9F%A4%96;AI+%2F+ML+Engineer+%F0%9F%A7%A0;Perception+%26+Autonomous+Systems+%F0%9F%9A%97)
 
 <p>
   <a href="https://linkedin.com/in/shivammaurya14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
