@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Shivam%20Maurya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00FFC8&center=true&vCenter=true&width=650&lines=Robotics+Software+Engineer+%F0%9F%A4%96;AI+%2F+ML+Engineer+%F0%9F%A7%A0;Autonomous+Systems+%26+Perception+Engineer+%F0%9F%91%81%EF%B8%8F;Controls+%26+Embedded+Systems+Engineer+%E2%9A%A1;ROS+2+%26+Open-Source+Contributor+%F0%9F%9A%80)](https://github.com/ShivamMaurya14)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1800&color=00FFC8&center=true&vCenter=true&width=700&lines=Robotics+Engineer+%F0%9F%A4%96;AI+%2F+ML+Engineer+%F0%9F%A7%A0;Autonomous+Systems+Engineer+%F0%9F%9A%97;Computer+Vision+%26+Perception+Engineer+%F0%9F%91%81%EF%B8%8F;ROS+2+%26+Controls+Engineer+%E2%9A%A1)](https://github.com/ShivamMaurya14)
 
 <p align="center">
   <a href="https://linkedin.com/in/shivammaurya14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -156,7 +156,7 @@ I am a **Robotics Software & Applied AI Engineer** based in Pune, India, current
 
 ### 🤝 Let's Connect
 
-**Open for Robotics Software, Perception, Controls, and Applied ML Engineering Roles & Research Collaborations**
+**Open for Robotics Engineer, AI / ML Engineer, Autonomous Systems, and Perception Roles & Collaborations**
 
 <p align="center">
   <a href="mailto:shivammaurya14032005@gmail.com"><img src="https://img.shields.io/badge/Email-shivammaurya14032005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
