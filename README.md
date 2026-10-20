@@ -1,14 +1,14 @@
-<div align="center">
+<h1 align="center">Shivam Maurya</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=170&amp;color=0:0f2027,50:203a43,100:2c5364&amp;text=Shivam%20Maurya&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=40&amp;desc=Robotics%20Software%20%26%20Applied%20AI%20Engineer&amp;descSize=18&amp;descAlignY=62" width="100%" alt="Shivam Maurya"/>
+<p align="center"><b>Robotics Software and Applied AI Engineer</b></p>
 
-**I build robots that see, plan, and act, from simulation all the way to real hardware.**
+<p align="center">I build robots that see, plan, and act, from simulation all the way to real hardware.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivammaurya14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-nu-amber-83.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivammaurya142005@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/shivammaurya14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://my-portfolio-nu-amber-83.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:shivammaurya142005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+</p>
 
 ## 👋 About
 
@@ -39,11 +39,7 @@ I'm an engineering student working across **robotics software, computer vision, 
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cpp,bash,ros,pytorch,tensorflow,opencv,sklearn,fastapi,flask,docker,linux,git,arduino&amp;perline=14" alt="Core technologies"/>
-
-</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,cpp,bash,ros,pytorch,tensorflow,opencv,sklearn,fastapi,flask,docker,linux,git,arduino&amp;perline=14" alt="Core technologies"/></p>
 
 | Area | Tools |
 |---|---|
@@ -98,16 +94,12 @@ I'm an engineering student working across **robotics software, computer vision, 
 | 2025 | **Top Submission**, CODECURE Hackathon (Track B), IIT BHU |
 | 2025 | **Finalist**, IIIT Pune Thinking Machines (MedSynapse) |
 
-<div align="center">
+<h2 align="center">🤝 Let's Connect</h2>
 
-## 🤝 Let's Connect
+<p align="center">Open to roles and collaborations in <b>robotics, perception, and AI/ML</b>.</p>
 
-Open to roles and collaborations in **robotics, perception, and AI/ML**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivammaurya14)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivammaurya142005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-nu-amber-83.vercel.app)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;color=0:0f2027,50:203a43,100:2c5364&amp;section=footer" width="100%" alt=""/>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/shivammaurya14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shivammaurya142005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+  <a href="https://my-portfolio-nu-amber-83.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+</p>
